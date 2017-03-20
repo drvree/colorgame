@@ -50,7 +50,7 @@ function setupSquares(){
         messageDisplay.textContent = "Correct!";
         changeColors(clickedColor);
         h1.style.background = clickedColor;
-        reset.textContent = "Play Again?";
+        resetButton.textContent = "Play Again?";
       }else{
         this.style.background = "#232323";
         messageDisplay.textContent = "Try Again!";
