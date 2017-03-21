@@ -8,7 +8,7 @@ body{
 
 .square{
   width: 30%;
-  background: purple;
+  background-color: purple;
   padding-bottom: 30%;
   float: left;
   margin: 1.66%;
@@ -42,7 +42,7 @@ h1{
 }
 
 .selected{
-  background: steelblue;
+  background-color: steelblue;
   color: #fff;
 }
 
